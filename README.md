@@ -8,4 +8,11 @@ C. Total Pizza Sold: The sum of quantites of all pizza sold. <br>
 D. Total Orders: Total number of orders placed. <br>
 E. Average Pizza Per Order: Average number of pizza sold per order. <br>
 
-
+2. Chart Requirements  -  <br>
+A. Daily trends in total order. <br>
+B. Mothly trend in order.<br>
+C. Percentage of sales by Pizza Category. <br>
+D. Percentage of sales by Pizza Size. <br>
+E. Total Pizza Sold by Pizza category. <br>
+F. Top 5 best sellers by revenue, total Quantity, total orders. <br>
+G. Bottom 5 best sellers by revenue, total Quantity, total orders. <br>
